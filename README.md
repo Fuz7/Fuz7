@@ -1,7 +1,7 @@
 ### Hi there, Im Fuz a Web Developer 🕷 
 
 - I'm currently working on *CV Generator*
-- I'm curently learning *React*
+- I'm currently learning *React*
 
 
 </br>
