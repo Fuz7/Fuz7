@@ -72,7 +72,7 @@ border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ico
 ---
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fuz7&theme=great-gatsby)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fuz7&theme=great-gatsby&fire=FF0000&currStreakNum=FF0000)](https://git.io/streak-stats)
 
 
 <br/>
