@@ -72,7 +72,8 @@ border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ico
 ---
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuz7&show_icons=true&theme=tokyonight&hide=issues,contribs)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fuz7&theme=great-gatsby)](https://git.io/streak-stats)
+
 
 <br/>
 
