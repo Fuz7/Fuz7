@@ -1,6 +1,6 @@
 ### Hi there, Im Fuz a Web Developer 🕷 
 
-- I'm currently working on *CV Generator*
+- I'm currently working on *Wheel Care*
 - I'm currently learning *React*
 
 
