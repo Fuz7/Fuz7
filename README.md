@@ -31,6 +31,8 @@
 
 <img align="left" width="50px" style="margin-right:10px;background-color:#eeee;
 border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<img align="left" width="50px" style="margin-right:10px;background-color:#eeee;
+border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 
 <img align="left" width="50px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
