@@ -1,7 +1,7 @@
 ### Hi there, Im Fuz a Web Developer 🕷 
 
 - I'm currently working on *CalTalk-Mobile*
-- I'm currently learning *React*
+- I'm currently learning *React Native*
 
 
 </br>
